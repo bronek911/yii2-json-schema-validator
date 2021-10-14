@@ -1,12 +1,12 @@
 {
-    "name": "dstotijn/yii2-json-schema-validator",
+    "name": "bronek911/yii2-json-schema-validator",
     "description": "A Yii2 extension that provides a validator class for JSON Schema validation.",
     "keywords": ["yii2", "json", "schema", "validator"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/dstotijn/yii2-json-schema-validator/issues",
-        "source": "https://github.com/dstotijn/yii2-json-schema-validator"
+        "issues": "https://github.com/bronek911/yii2-json-schema-validator/issues",
+        "source": "https://github.com/bronek911/yii2-json-schema-validator"
     },
     "authors": [
         {
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "justinrainbow/json-schema": "~3.0",
+        "justinrainbow/json-schema": "dev-master",
         "yiisoft/yii2": "2.*"
     },
     "require-dev": {
